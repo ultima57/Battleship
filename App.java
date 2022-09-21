@@ -1,3 +1,5 @@
+// Вот тебе пулл реквест
+
 public class App {
 
     public static int[] FindDirection(int[][] a, int shipSize, int posX, int posY) {
